@@ -1,0 +1,1 @@
+require('./app/controllers/employee.controller.test.js');
